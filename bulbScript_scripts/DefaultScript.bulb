@@ -1,0 +1,4 @@
+setoff all
+slp .5
+setrgb all (255, 0, 0)
+slp .5
